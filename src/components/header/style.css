@@ -1,0 +1,18 @@
+
+.containerHeader{
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+}
+
+.listMenuHeader{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+li{
+    border: solid 1px pink ;
+}
+ul{
+    list-style: none;
+}
